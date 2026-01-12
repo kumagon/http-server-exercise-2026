@@ -1,4 +1,4 @@
-ifunction clickHandler() {
+function clickHandler() {
   const box = document.getElementById("box");
   const p = document.createElement("p");
   p.innerText = "Added by JS";
